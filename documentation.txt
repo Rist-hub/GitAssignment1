@@ -1,1 +1,3 @@
 Hello explorers, This is a git project documentation made by Rishabh!!
+
+Hey wanderers, This is a git project documentation made by Rishabh Sharma!!
